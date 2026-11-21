@@ -56,7 +56,7 @@ Given the tight budget and high upfront EV cost, the deck names **accessible fin
 
 ## How to View
 
-Open [`Team Trinity (LPU).pdf`](Team%20Trinity%20(LPU).pdf) in any PDF viewer or directly on GitHub.
+Open [`Team Trinity (LPU).pdf`](Team%20Trinity%20%28LPU%29.pdf) in any PDF viewer or directly on GitHub.
 
 ---
 
